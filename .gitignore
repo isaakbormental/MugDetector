@@ -1,0 +1,15 @@
+*.pyc
+*~
+__pycache__
+
+
+### Idea ###
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+.ipynb_checkpoints
+
+dont/
